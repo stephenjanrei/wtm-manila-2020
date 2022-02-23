@@ -34,7 +34,7 @@
     <!-- <img v-for="url in $parent.data.highlights" :key="url" :src="url">
     <a href="https://photos.app.goo.gl/K19HeyGcHMumg8ks5" target="_blank" rel="noreferrer">2019 Highlight Photos</a>-->
     <br><br><br>
-    <a name="schedule" style="position: absolute; bottom: 7rem"></a>
+    <a name="speakers" style="position: absolute; bottom: 7rem"></a>
   </div>
 </template>
 

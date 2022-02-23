@@ -25,7 +25,7 @@
         <br><br>
         </div>
     </div>
-    <a name="speakers" style="position: absolute; bottom: 7rem"></a>
+    
     </div>
 </template>
 
